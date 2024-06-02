@@ -35,6 +35,7 @@ return {
         tabstop = 4,
         shiftwidth = 4,
         expandtab = true,
+        guifont = "JetBrainsMono NFM:h14"
       },
       g = { -- vim.g.<key>
         -- configure global vim variables (vim.g)
